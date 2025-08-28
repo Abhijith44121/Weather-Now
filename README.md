@@ -6,7 +6,7 @@ A simple weather application built with React that lets you search for any city 
 
 🌬️ Wind Speed
 
-🌦️ Weather condition (with emojis 🌤️⛈️❄️)
+🌦️ Weather condition 
 
 
 🚀 Features
